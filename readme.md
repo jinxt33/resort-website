@@ -13,6 +13,9 @@ To clone this project, please follow these steps
 * in the terminal type: git clone https://github.com/jinxt33/resort-website.git
 * now this project is yours!
 
+## GitHub Pages
+jinxt33.github.io/resort-website/
+
 ## Known Bugs
 There are no technical issues, however you may find a few indentation faults.
 

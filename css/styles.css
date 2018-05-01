@@ -2,6 +2,7 @@
 h1 {
   font-weight: bold;
   font-size: 27px;
+  color: blue;
 }
 
 h2 {
@@ -13,18 +14,18 @@ p {
   font-size: 11px;
 }
 
-.body {
+body {
   text-align: center;
   font-family: sans-serif;
   background-color: green;
 }
 
-.strong {
-  text-color: red;
+strong {
+  color: red;
   font-weight: bold;
 }
 
-.a {
-  text-color: pink;
+a {
+  color: pink;
   font-style: underline;
 }
