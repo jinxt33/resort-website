@@ -2,7 +2,7 @@
 h1 {
   font-weight: bold;
   font-size: 27px;
-  color: blue;
+  color: White;
 }
 
 h2 {
@@ -17,11 +17,11 @@ p {
 body {
   text-align: center;
   font-family: sans-serif;
-  background-color: green;
+  background-color: Red;
 }
 
 strong {
-  color: red;
+  color: darkred;
   font-weight: bold;
 }
 
